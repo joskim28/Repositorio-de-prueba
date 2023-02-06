@@ -1,2 +1,2 @@
-# Repositorio-de-prueba
+# Repositorio de prueba
 Es solo prueba 
